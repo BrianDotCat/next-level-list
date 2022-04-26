@@ -1,5 +1,7 @@
+![Awesome badge](https://badgen.net/badge/icon/awesome/pink?icon=awesome&label)
+
 ## ¿Qué es esto?
-Una lista con los recursos más increíbles e interesantes.
+Una lista con los recursos más increíbles e interesantes de internet.
 
 ## Índice de contenido
 
@@ -9,6 +11,6 @@ Una lista con los recursos más increíbles e interesantes.
 
 ## Libros
 
-- [Z-Library](https://es.z-lib.org/) Gran biblioteca de ebooks gratuitos.
+- [Z-Library](https://es.z-lib.org/) :pirate_flag: Gran biblioteca de ebooks gratuitos.
 - [EPDF](https://epdf.mx/) Biblioteca de PDFs.
-- [Calibre](https://calibre-ebook.com/) :star2: Herramienta para gestionar tus ebooks.
+- [Calibre](https://calibre-ebook.com/) :trophy: Herramienta para gestionar tus ebooks.
