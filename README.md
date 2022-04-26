@@ -1,4 +1,4 @@
-![Awesome badge](https://badgen.net/badge/icon/awesome/pink?icon=awesome&label)
+![GitHub last commit](https://img.shields.io/github/last-commit/BrianDotCat/next-level-list?label=last%20update) ![Awesome badge](https://badgen.net/badge/icon/awesome/pink?icon=awesome&label) 
 
 ## ¿Qué es esto?
 Una lista con los recursos más increíbles e interesantes de internet.
