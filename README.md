@@ -11,6 +11,6 @@ Una lista con los recursos más increíbles e interesantes de internet.
 
 ## Libros
 
-- [Z-Library](https://es.z-lib.org/) :pirate_flag: Gran biblioteca de ebooks gratuitos.
-- [EPDF](https://epdf.mx/) Biblioteca de PDFs.
+- [Z-Library](https://es.z-lib.org/) Gran biblioteca de ebooks gratuitos. :pirate_flag:
+- [EPDF](https://epdf.mx/) Biblioteca de PDFs. :pirate_flag:
 - [Calibre](https://calibre-ebook.com/) :trophy: Herramienta para gestionar tus ebooks.
